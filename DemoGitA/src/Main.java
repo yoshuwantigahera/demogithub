@@ -9,5 +9,6 @@ public class Main {
         boolean codingIsCool = true;
         //this is a comment
         //new staging and ready to push GITHUB online
+        String greetings = "evening humans";
     }
 }
