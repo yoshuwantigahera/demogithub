@@ -7,7 +7,7 @@ public class Main {
         String codingSoFar = "is fun";
         String fun = "fun";
         boolean codingIsCool = true;
-        //this is a comments
+        //this is a commentss
         //new staging and ready to push GITHUB online
         String greetings = "evening humans";
     }
